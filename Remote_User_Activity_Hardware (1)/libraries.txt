@@ -1,0 +1,11 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+MPU6050
+OneWire
+DallasTemperature
+WiFi
+HTTPClient
+DHT sensor library
+Adafruit Unified Sensor
+Adafruit MPU6050
